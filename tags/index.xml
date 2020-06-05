@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Foster Communications LLC</title>
-    <link>https://fostercommunicationsllc.github.io/tags/</link>
+    <link>https://fostercomm.us/tags/</link>
     <description>Recent content in Tags on Foster Communications LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fostercommunicationsllc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fostercomm.us/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
